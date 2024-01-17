@@ -31,22 +31,19 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Yourschool",
+    description: "A platform for schools make teachers keep in touch with their students",
+    url: "https://github.com/ruskovin/YourSchool",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "To-do list app",
+    description: "A simple to-do list app with Django and Bootstrap.",
+    url: "https://github.com/ruskovin/Django-Projects/tree/main/todo-list",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Weather app",
+    description: "A simple weather app to get the weather of any city in the world made with Django and Bootstrap.",
+    url: "https://github.com/ruskovin/Django-Projects/tree/main/weather_app",
   },
   {
     title: "GitHub Codespaces and github.dev",
